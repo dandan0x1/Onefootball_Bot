@@ -57,7 +57,8 @@ retry_interval_hours = 1 # 错误重试间隔（小时）
 
 ``F12 → 应用程序选项卡 → Cookies → https://x.com → auth_token``
 
-![1752455733935](image/教程/1752455733935.png)
+
+<img width="1582" height="994" alt="1752455733935" src="https://github.com/user-attachments/assets/5c029baf-0d58-4d53-bee5-0c02f18ba165" />
 
 ## log目录
 自动生成
